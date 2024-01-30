@@ -1,10 +1,8 @@
 ### Hi I AM RODOLFO SALES 👋
 
-- 🔭 I’m currently working on Robotics
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on Robotics and Full Stack Development
+- 🔭 I’m currently pursuing a Masters Degree in Reinforcement Learning
+- 👯 I’m looking to collaborate on Full Stack Development and System Design
 - 📫 How to reach me: rodolfo.luiz.sales@gmail.com
-- ⚡ Fun fact: I Love To Swim
 
 <div>
   <a href="https://github.com/RodolfoSales">
